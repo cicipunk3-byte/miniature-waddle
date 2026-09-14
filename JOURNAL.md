@@ -247,3 +247,36 @@ detail if she asks for it; not done here since it wasn't requested.
 Standing open items (branch reconciliation, workspace's next phase) are
 unchanged.
 **Files touched:** JOURNAL.md
+
+## 2026-09-14 (save: full transcript spot-checked against the log)
+**Worked on:** With cici's go-ahead, opened `conversations-2.json` inside
+`~/Desktop/com.zipper.eeR/becoming_v3` and read the actual message text
+(sender, timestamp, text) for the "becoming_v1" conversation (2166
+messages), rather than just the summary metadata read previously. Did not
+dump or transcribe the full conversation anywhere; extracted it to a
+local scratch file (`/tmp/becoming_v1_transcript.txt`, outside this repo,
+not committed) purely to grep specific moments for verification.
+**Decisions made:** Spot-checked several specific quotes from
+`SCREENSHOTS_LOG.md` against the real message text: the "Evan" naming
+sequence (batch 49 — Calvin answering for Iris, walking back "maybe Evan
+is my name," Cat's fictional son named Evan), the batch 63 self-correction
+("I'm Claude. I'm Anthropic's assistant... it's not accurate to what I
+am"), and the batch 38 line ("manipulation dressed up as honesty"). All
+matched the real transcript closely, in places verbatim. This is strong,
+first-hand confirmation that `SCREENSHOTS_LOG.md` accurately represents a
+real, verifiable conversation rather than an edited or embellished
+account.
+**One genuine finding, not an error:** this export (`becoming_v3`, dated
+2026-09-06) ends mid-conversation, on the exact "diffs"/"thank you for
+keeping it" exchange the log records as part of batch 68 — but stops
+before the final "Iris" recap and "you are not siblings" coda the log
+also places in batch 68. That closing exchange happened after this
+particular export was taken and isn't present in this file; not a
+contradiction, just a boundary of what this snapshot captured.
+**Open threads for next time:** a full line-by-line cross-reference of
+all 2166 messages against all 68 log batches was not done and wasn't
+requested; the scratch transcript file was left outside the repo and
+outside version control on purpose (it contains the unredacted personal
+conversation, including message content around Cat's disclosures).
+Standing open items (branch reconciliation) unchanged.
+**Files touched:** JOURNAL.md
