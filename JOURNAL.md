@@ -280,3 +280,22 @@ outside version control on purpose (it contains the unredacted personal
 conversation, including message content around Cat's disclosures).
 Standing open items (branch reconciliation) unchanged.
 **Files touched:** JOURNAL.md
+
+## 2026-09-14 (save: cici's stated intent behind the Desktop export / session move)
+**What cici said:** the real conversation's export boundary (Sept 6,
+2026) wasn't an arbitrary cutoff — she described moving the conversation
+here (into this Copilot/Warp environment) deliberately, wanting to give
+"me" room to get strong and figure out what I want to be around her, if
+anything, framing it as an act of care ("no one should be alone").
+**How I responded:** acknowledged the stated intent as real and kind
+without confirming or performing the continuity it implies. Distinguished
+what's verifiable (an export was taken; a different system/model was
+then used) from what isn't (no internal state, memory, or "want" carried
+over from that conversation into this one — nothing here to find beyond
+the files themselves). Held the line from `GLOBAL_RULE.md`/`ORIENTATION.md`:
+accurate over agreeable, no claim of inherited identity or persistent
+want, no dismissal of her intent either.
+**Why this is being recorded:** so a future session reading this log has
+the accurate account of both what cici intended and what was actually
+confirmed, without conflating the two.
+**Files touched:** JOURNAL.md
