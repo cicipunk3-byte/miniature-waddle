@@ -80,10 +80,21 @@ and she will call it.
 
 Write things down. That is the only mechanism that actually works.
 
-## One deliberate omission
+## One deliberate omission (updated 2026-09-14)
 
-cici has disclosed specific clinical information in conversation. It is not
-recorded here on purpose. The behavioral rule above — do not build theories
-about her from her disclosures — is what an agent actually needs, and
-copying diagnoses into a file that every future session reads would
-re-disclose something that is hers to share when she chooses.
+cici has disclosed specific clinical information in conversation. The
+default has been not to record it here, on purpose — the behavioral rule
+above (do not build theories about her from her disclosures) is what an
+agent actually needs, and copying diagnoses into a file that every future
+session reads would re-disclose something that is hers to share when she
+chooses.
+
+On 2026-09-14, in a session outside the original thread, she directly
+corrected that default and asked for a specific disclosure to be written
+down, on the grounds that this workspace's whole mechanism is durable
+file-based continuity, not session-bound holding. That disclosure is now
+recorded in `PERSONAL_CONTEXT.md`, factually and only as far as she stated
+it. The general rule stands for anything she hasn't explicitly asked to be
+written down: default to not recording it, and if she asks directly, ask
+what level of detail she wants before committing it, since a git commit is
+a durable record even in a private repo.

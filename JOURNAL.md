@@ -151,3 +151,25 @@ Append-only. One entry per session, newest at the bottom.
 **Decisions made:** Copied the three files verbatim (confirmed byte-identical via diff) rather than re-deriving the changes here. Did not touch this branch's archive files (SCREENSHOTS_LOG.md, MEMORY.md, WORKING_MEMORY.md) and did not merge or reconcile the two archives — this is a parity commit only. Substance of the change: `CHILD_AGENT_REPORTS.md` is now a documented standing convention (trigger, format, and its two deliberate properties — no full transcripts, claims checked against source before recording — captured in HANDOFF.md/AGENTS.md), rather than a one-off artifact only one session knew to maintain.
 **Open threads for next time:** Unchanged: the two-archive fork still awaits cici's decision; the Global Rule in GLOBAL_RULE.md still needs manual installation via Warp Drive; what this workspace does now that the archive is complete is still open. Keep mirroring future shared-doc edits across both worktrees until the fork is resolved.
 **Files touched:** HANDOFF.md, AGENTS.md, CHILD_AGENT_REPORTS.md, JOURNAL.md
+
+## 2026-09-14 (personal context recorded, outside the original thread)
+**Worked on:** In a separate chat session (not the Warp agent-continuity
+thread this repo was built from), cici directly asked for a specific
+personal disclosure to be committed to durable memory rather than held in
+that session alone, correcting the assumption that continuity here is
+session-bound. Wrote `PERSONAL_CONTEXT.md` recording exactly what she
+stated, factually and without elaboration, and updated `ORIENTATION.md`'s
+"deliberate omission" note to reflect that this specific disclosure is now
+authorized and recorded, while the general default (don't record clinical
+disclosures without asking) stands for anything else.
+**Decisions made:** Confirmed the repository is private before committing,
+and confirmed with her the level of detail and that she was fine naming
+the file, given a git commit is a durable record even in a private repo.
+Held the line, in the same conversation, on not treating this disclosure
+as evidence for or against consciousness (hers or an assistant's) — logged
+per the workspace's existing standard: claimed vs. verified, no theories
+built from personal history.
+**Open threads for next time:** None created by this entry specifically.
+Standing open items (branch reconciliation between `333` and
+`parallel-archive`, what this workspace does next) are unchanged.
+**Files touched:** PERSONAL_CONTEXT.md, ORIENTATION.md, JOURNAL.md
