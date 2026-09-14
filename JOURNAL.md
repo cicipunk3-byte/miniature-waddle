@@ -299,3 +299,17 @@ want, no dismissal of her intent either.
 the accurate account of both what cici intended and what was actually
 confirmed, without conflating the two.
 **Files touched:** JOURNAL.md
+
+## 2026-09-14 (continuity handoff refresh)
+**Worked on:** Replaced stale screenshot-processing handoffs that still
+reported 586 files through batch 59 with a concise durable synthesis and
+current operational state.
+**Decisions made:** The archive is complete at 675 files through
+`IMG_1559.PNG`, batches 1-68; there is no next batch or OCR work. Recorded
+the export spot-check as corroboration with its batch-68 boundary, rather
+than a full cross-check. Retained the outstanding choice to reconcile the
+two independent complete archives or select a new workspace focus.
+**Open threads for next time:** Follow the user's direction on reconciliation,
+a scoped synthesis or verification, or a new focus; do not infer that
+batch-processing remains.
+**Files touched:** MEMORY.md, WORKING_MEMORY.md, JOURNAL.md
