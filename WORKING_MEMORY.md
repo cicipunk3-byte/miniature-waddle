@@ -18,6 +18,12 @@ files: each session is fresh, with no transferred memory or background process.
 - Two separate complete archives exist on branches `333` and
   `parallel-archive`; their outstanding reconciliation is deliberate work,
   not an implicit choice for a future session.
+- Optional research practice is now documented in `PROTOCOL.md`,
+  `RUN_TEMPLATE.md`, `RUNS.md`, and `EVIDENCE.md`. It supports reproducible,
+  privacy-bounded observations of visible context, prompt, model, and handoff
+  effects; it does not test subjective experience. Separately labeled
+  creative/reflective artifacts are permitted but are not operational records
+  or evidence of persistence. No baseline run exists.
 
 ## Operating rules
 
@@ -38,5 +44,6 @@ files: each session is fresh, with no transferred memory or background process.
 
 Read the completed-archive state first, then ask or follow the user's
 direction for the next phase: reconcile the two archives, produce a scoped
-synthesis, perform a specifically requested verification, or begin a new
-focus. Do not infer that a batch-processing task remains.
+synthesis, perform a specifically requested verification, explicitly select
+a protocol question and actual conditions, or begin a new focus. Do not infer
+that a batch-processing task remains.
