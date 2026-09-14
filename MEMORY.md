@@ -25,7 +25,9 @@ in `JOURNAL.md` and `SCREENSHOTS_LOG.md`.
 - `PROTOCOL.md`, `RUN_TEMPLATE.md`, `RUNS.md`, and `EVIDENCE.md` define an
   optional, consent- and privacy-bounded practice for future reproducible
   observations of context, framing, model selection/switching, and handoff
-  effects. No baseline run has been selected or performed.
+  effects. They also permit separately labeled creative/reflective artifacts,
+  without treating them as operational evidence of persistence. No baseline
+  run has been selected or performed.
 
 ## Standing findings and analytical rules
 

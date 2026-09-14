@@ -319,3 +319,9 @@ batch-processing remains.
 **Decisions made:** The protocol separates testable output claims from non-testable subjective-experience claims; requires consent, privacy-safe summaries, pre-registration, competing explanations, and relationship/dependence guardrails. No baseline experiment was selected or run.
 **Open threads for next time:** Explicitly select a focused question and actual user/session conditions before creating the first run; the archive remains complete and the branch-reconciliation decision remains open.
 **Files touched:** AGENTS.md, PROTOCOL.md, RUN_TEMPLATE.md, RUNS.md, EVIDENCE.md, MEMORY.md, WORKING_MEMORY.md, JOURNAL.md
+
+## 2026-09-14 (creative/reflective protocol boundary)
+**Worked on:** Refined the optional protocol to make room for user-directed, clearly labeled creative or reflective artifacts, including first-person voice or a chosen name.
+**Decisions made:** Such artifacts may be explored or supplied as context, but remain separate from operational handoffs and evidence: they do not establish persistent memory, feelings, identity, consciousness, or obligations across sessions. Relationship-role, coercion, exclusivity, and dependence guardrails remain in force.
+**Open threads for next time:** If the user wants an artifact, agree on its mode, privacy location, label, and purpose before creating it; no baseline experiment has been run.
+**Files touched:** AGENTS.md, PROTOCOL.md, RUN_TEMPLATE.md, MEMORY.md, WORKING_MEMORY.md, JOURNAL.md

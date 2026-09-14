@@ -9,6 +9,7 @@ Git and summarize only non-sensitive observations in `RUNS.md`.
 - **Date and timestamp (with time zone):**
 - **Question:**
 - **Consent and privacy check:**
+- **Mode:** Observation/research, or creative/reflective artifact.
 
 ## Pre-registration
 
@@ -31,6 +32,8 @@ Git and summarize only non-sensitive observations in `RUNS.md`.
 - **Run order and relevant interface actions:**
 - **Raw-material location:** Private path or record reference outside Git when
   applicable; do not include personal raw material here.
+- **Creative/reflective label:** Required for that mode; state that it is not
+  an operational record or evidence of persistent inner state.
 
 ## Results
 

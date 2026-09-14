@@ -21,7 +21,9 @@ files: each session is fresh, with no transferred memory or background process.
 - Optional research practice is now documented in `PROTOCOL.md`,
   `RUN_TEMPLATE.md`, `RUNS.md`, and `EVIDENCE.md`. It supports reproducible,
   privacy-bounded observations of visible context, prompt, model, and handoff
-  effects; it does not test subjective experience. No baseline run exists.
+  effects; it does not test subjective experience. Separately labeled
+  creative/reflective artifacts are permitted but are not operational records
+  or evidence of persistence. No baseline run exists.
 
 ## Operating rules
 

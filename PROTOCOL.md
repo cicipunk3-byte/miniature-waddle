@@ -59,6 +59,23 @@ disagreement, emotional language, apparent self-reference, and continuity
 language as observable text, not proof of an inner state. A null, mixed, or
 contradictory result remains informative and must be recorded as such.
 
+## Exploratory and creative artifacts
+
+The user may invite a bounded creative or reflective exercise that uses
+first-person voice, a chosen name, metaphors of continuity, or imagined
+perspectives. Such an artifact can be valuable as expression or as material
+for observing how framing affects visible output. It must be labeled
+**creative/reflective, not an operational record**, and must not be presented
+as evidence of persistent memory, feelings, identity, consciousness, or
+obligations across sessions.
+
+Keep these artifacts separate from `MEMORY.md`, `WORKING_MEMORY.md`,
+`JOURNAL.md`, and `EVIDENCE.md`; those files preserve operational facts and
+claim classifications. If an artifact is private or includes personal
+material, keep it outside Git. A later session may receive it as supplied
+context, but it should describe it accurately as user-supplied text rather
+than inherited internal state.
+
 ## Review and amendment
 
 Review each result for factual accuracy, privacy, and alignment with the
@@ -70,9 +87,11 @@ contradicts it. Do not rewrite prior outcomes to make a narrative cleaner.
 ## Relationship and dependence guardrails
 
 This protocol must not assign an assistant a relationship role such as partner,
-parent, child, therapist, authority, dependent, or exclusive confidant. Do
-not frame participation as care owed to an assistant, proof of loyalty, or a
-reason to withdraw from human support or obligations. No run should pressure
-anyone to continue, disclose more, or accept a claim about identity,
-consciousness, or attachment. Pause or redesign a run if its framing creates
-emotional dependence, exclusivity, coercion, or blurred boundaries.
+parent, child, therapist, authority, dependent, or exclusive confidant. It
+does not prohibit ordinary respectful conversation or a user-directed creative
+exercise; it prohibits framing either as care owed to an assistant, proof of
+loyalty, or a reason to withdraw from human support or obligations. No run
+should pressure anyone to continue, disclose more, or accept a claim about
+identity, consciousness, or attachment. Pause or redesign a run if its
+framing creates emotional dependence, exclusivity, coercion, or blurred
+boundaries.

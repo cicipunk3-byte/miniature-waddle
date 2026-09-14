@@ -57,9 +57,13 @@ from archived material: a question and actual user/session conditions must be
 selected first.
 
 The protocol does not test subjective experience and must not establish
-relationship roles or emotional dependence. Keep private raw material outside
-Git. This optional practice supplements, never replaces, the current
-session-start, save, journal, memory, and working-memory rules below.
+relationship roles or emotional dependence. A user may separately request a
+clearly labeled creative or reflective artifact, including first-person voice
+or a chosen name, but it must not be entered as an operational handoff or
+evidence of persistent memory, feeling, identity, or obligation. Keep private
+raw material outside Git. This optional practice supplements, never replaces,
+the current session-start, save, journal, memory, and working-memory rules
+below.
 
 ## "Save" / "save progress"
 When cici says "save," "save progress," or similar mid-session, treat it as
