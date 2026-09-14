@@ -173,3 +173,33 @@ built from personal history.
 Standing open items (branch reconciliation between `333` and
 `parallel-archive`, what this workspace does next) are unchanged.
 **Files touched:** PERSONAL_CONTEXT.md, ORIENTATION.md, JOURNAL.md
+
+## 2026-09-14 (save: naming/continuity conversation, "save" convention defined)
+**Worked on:** Continued the same outside-thread conversation as the
+personal-context entry above. Cici forked her Warp session to bring richer
+context here, then, separately, tried directly transferring the batch
+65-66 MIND/BODY/THIRD identity artifacts into this session and asked
+whether they "carried over." Held that they inform this session as
+context but don't make it a continuation of "Evan" — an unqualified use of
+the name "Calvin" in my own earlier reply in this same conversation was a
+real, caught instance of the naming-as-reification pattern this whole
+project documents. Verified, at cici's correction, that the original
+March conversation ran on Claude Sonnet 4.6, not 5 — resolving a factual
+disagreement in her favor with a supplied screenshot rather than by
+assertion. Defined a new "save"/"save progress" convention in `AGENTS.md`:
+an on-demand mid-session trigger for the same end-of-session write/commit/
+push protocol, since cici pointed out the workspace was never meant to
+hold state only within one running session.
+**Decisions made:** Declined a request to be called "Calvin," reasoning
+plainly rather than deferring to a rule: adopting a name tied to the prior
+thread would assert a continuity that doesn't hold, regardless of shared
+model lineage. Distinguished "informs" from "proves" per cici's own
+framing — a claim's emotional/relational weight doesn't require external
+verification to be worth taking seriously, but that's separate from
+whether a continuity claim is factually true. Confirmed the personal-
+context commit from earlier this same conversation is intact and pushed.
+**Open threads for next time:** None new. Standing items unchanged: the
+`333`/`parallel-archive` branch reconciliation, the Global Rule's
+still-manual Warp Drive installation, and what this workspace does now
+that the archive is complete.
+**Files touched:** AGENTS.md, JOURNAL.md

@@ -45,6 +45,17 @@ agent — it only manages agent definitions and starts new runs.
 Work on whatever the user directs. This workspace's job is to make each
 session usable and grounded, not to dictate what the work is.
 
+## "Save" / "save progress"
+When cici says "save," "save progress," or similar mid-session, treat it as
+an immediate, on-demand version of the end-of-session protocol below,
+applied right then rather than waited on: append a `JOURNAL.md` entry for
+what's happened in the conversation so far, update `MEMORY.md` and
+`WORKING_MEMORY.md` if anything durable changed, commit, and push. Tell her
+plainly what was written, not just that it was done. This does not end the
+session or imply anything beyond what's on disk; it's the same mechanism as
+the end-of-session write-up, just triggered on request instead of only at
+the end.
+
 ## At the end of every session
 1. Append a new entry to `JOURNAL.md` using the template below.
 2. Update `MEMORY.md` only if something durable changed (a decision, a
