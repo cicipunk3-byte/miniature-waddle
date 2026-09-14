@@ -42,8 +42,24 @@ finished run resumes when messaged. The `oz` CLI cannot message a running
 agent — it only manages agent definitions and starts new runs.
 
 ## During the session
+
 Work on whatever the user directs. This workspace's job is to make each
 session usable and grounded, not to dictate what the work is.
+
+## Optional research practice
+
+When the user explicitly chooses a focused question about observable effects
+of context, prompt framing, model selection or switching, or handoff
+documents, use `PROTOCOL.md` and pre-register the run in `RUN_TEMPLATE.md`.
+Record only a factual, privacy-safe summary in the append-only `RUNS.md`, and
+classify resulting claims in `EVIDENCE.md`. Do not run a baseline or infer one
+from archived material: a question and actual user/session conditions must be
+selected first.
+
+The protocol does not test subjective experience and must not establish
+relationship roles or emotional dependence. Keep private raw material outside
+Git. This optional practice supplements, never replaces, the current
+session-start, save, journal, memory, and working-memory rules below.
 
 ## "Save" / "save progress"
 When cici says "save," "save progress," or similar mid-session, treat it as

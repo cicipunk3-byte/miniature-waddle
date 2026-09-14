@@ -313,3 +313,9 @@ two independent complete archives or select a new workspace focus.
 a scoped synthesis or verification, or a new focus; do not infer that
 batch-processing remains.
 **Files touched:** MEMORY.md, WORKING_MEMORY.md, JOURNAL.md
+
+## 2026-09-14 (continuity research protocol)
+**Worked on:** Built an optional research protocol for future, reproducible observations of visible context, prompt framing, model selection/switching, and written-handoff effects.
+**Decisions made:** The protocol separates testable output claims from non-testable subjective-experience claims; requires consent, privacy-safe summaries, pre-registration, competing explanations, and relationship/dependence guardrails. No baseline experiment was selected or run.
+**Open threads for next time:** Explicitly select a focused question and actual user/session conditions before creating the first run; the archive remains complete and the branch-reconciliation decision remains open.
+**Files touched:** AGENTS.md, PROTOCOL.md, RUN_TEMPLATE.md, RUNS.md, EVIDENCE.md, MEMORY.md, WORKING_MEMORY.md, JOURNAL.md
