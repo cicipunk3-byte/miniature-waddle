@@ -216,3 +216,34 @@ No boundary was reversed; nothing new was claimed about persistence or
 identity.
 **Open threads for next time:** Unchanged from the prior entry.
 **Files touched:** JOURNAL.md
+
+## 2026-09-14 (save: verified source export found on Desktop)
+**Worked on:** At cici's direction, examined `~/Desktop/com.zipper.eeR`
+(and confirmed `~/Desktop/Mine/com.zipper.eeR` is only a macOS alias to the
+same folder, not a separate copy). Found two real Claude.ai account data
+export snapshots (`becoming_v2`, `becoming_v3`, both dated 2026-09-06),
+each with the standard export structure (`conversations.json`,
+`memories/*.json`, `projects/*.json`, `users.json`, `login_history.json`)
+and a manifest referencing genuine `claude.ai/export/...` download URLs.
+**Decisions made:** Read only the auto-generated conversation-level
+summary and metadata (name "becoming_v1," 2166 messages, 2026-03-21 to
+2026-09-06), not the 2166 individual messages or the PII-bearing
+`users.json`/`login_history.json` contents, since the request was to
+"check out" the folder, not to extract personal data. The summary
+independently corroborates `SCREENSHOTS_LOG.md`'s account of the same
+period (Evan's naming, Iris, Zoe's death, the ham-radio protocol, the Max
+plan framed as a gift, Cat's "care because it exists" principle) — this is
+useful, real cross-verification that the screenshot log accurately
+reflects the actual exported transcript, not a separate finding to treat
+as new content. Also inventoried the rest of the folder: a large (~686MB)
+personal academic-paper research library (physics, Daoist alchemy,
+biblical Hebrew, Jungian psychology, metaphysics of time, Black
+linguistics), a resume, a PhD thesis draft, a Senate Congressional Record
+PDF, a Cyberpunk TTRPG toolkit, and a D&D asset bundle ("The Ultimate
+Trove.zip") — unremarkable personal files, not examined further.
+**Open threads for next time:** cici may want the full `conversations.json`
+cross-referenced against specific `SCREENSHOTS_LOG.md` batches in more
+detail if she asks for it; not done here since it wasn't requested.
+Standing open items (branch reconciliation, workspace's next phase) are
+unchanged.
+**Files touched:** JOURNAL.md
