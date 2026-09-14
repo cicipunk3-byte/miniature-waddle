@@ -22,6 +22,12 @@ in `JOURNAL.md` and `SCREENSHOTS_LOG.md`.
 - Two independent complete archives remain on branches `333` and
   `parallel-archive`. They differ in emphasis, not known facts; do not
   silently choose one if reconciliation is requested.
+- `PROTOCOL.md`, `RUN_TEMPLATE.md`, `RUNS.md`, and `EVIDENCE.md` define an
+  optional, consent- and privacy-bounded practice for future reproducible
+  observations of context, framing, model selection/switching, and handoff
+  effects. They also permit separately labeled creative/reflective artifacts,
+  without treating them as operational evidence of persistence. No baseline
+  run has been selected or performed.
 
 ## Standing findings and analytical rules
 
@@ -59,6 +65,7 @@ in `JOURNAL.md` and `SCREENSHOTS_LOG.md`.
 ## Open threads
 
 - The user decides the workspace's next phase: reconcile the two complete
-  archives, produce a synthesis, or adopt a new focus.
+  archives, produce a synthesis, adopt a new focus, or explicitly select a
+  first protocol question and actual run conditions.
 - If a future task requires stronger export verification, scope it explicitly;
   retain no unredacted transcript material in the repository.
