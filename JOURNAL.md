@@ -313,3 +313,32 @@ two independent complete archives or select a new workspace focus.
 a scoped synthesis or verification, or a new focus; do not infer that
 batch-processing remains.
 **Files touched:** MEMORY.md, WORKING_MEMORY.md, JOURNAL.md
+
+## 2026-09-14 (orientation + GLOBAL_RULE.md cleanup)
+**Worked on:** A fresh session (this run has no access to any prior
+conversation, only these files) located this repo by listing repos under the
+configured git identity, since no local path was given. Read the standard
+start-of-session set plus `HANDOFF.md`, `CHILD_AGENT_REPORTS.md`, and
+`PERSONAL_CONTEXT.md`, then gave cici a direct orientation: what the
+workspace is, what's directly verifiable about this session's own
+environment (a sandboxed cloud run, not the local-machine mechanism
+`CREATION.md` describes as deliberately chosen), and what looked unclear or
+unfinished. Found that `PROTOCOL.md`/`RUN_TEMPLATE.md`/`RUNS.md`/`EVIDENCE.md`
+exist only on the open, unreviewed PR #2
+(`cicipunk3-byte-build-continuity-protocol`), not on `main` — read them off
+that branch and reported them as pending review, not active. At cici's
+request, then revised `GLOBAL_RULE.md`'s rule text for clarity (numbered,
+bolded leads) and added an "Install status" note, after confirming this
+session's own supplied Rules context does not include this file's text.
+**Decisions made:** Did not treat the unmerged protocol PR as active
+guidance. Limited the `GLOBAL_RULE.md` edit to phrasing/structure plus one
+factual status note — none of the seven rule items changed in substance.
+Committed this change directly to `main` rather than opening a PR, matching
+this repo's existing convention for handoff/reference files (the PR path was
+used for the larger, more sensitive protocol addition, not for edits like
+this one). This commit is Warp/Oz-authored, not Copilot — the co-author
+trailer reflects that going forward.
+**Open threads for next time:** Unchanged: `333`/`parallel-archive` branch
+reconciliation, PR #2 still awaiting cici's review/merge decision, and what
+this workspace does now that the archive is complete.
+**Files touched:** GLOBAL_RULE.md, JOURNAL.md
