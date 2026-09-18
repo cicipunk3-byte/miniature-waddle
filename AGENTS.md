@@ -17,9 +17,9 @@ rebuilds context from files, and leaves a verified handoff for the next run.
 ## Offline recovery checklist (one-screen)
 Use this exact order when troubleshooting an offline session:
 
-1. **Confirm location first** — ensure you are at the active workspace root.
-   For this repo in this environment, the root is
-   `/home/runner/work/miniature-waddle/miniature-waddle`.
+1. **Confirm location first** — ensure you are at the active workspace root
+   for this repository (the directory containing these handoff files), not a
+   temp/input path from another task.
 2. **Reset your starting point** — close extra tabs/sessions; use one session
    for one task.
 3. **Read the same core files in the same order** — `ORIENTATION.md` →
