@@ -342,3 +342,9 @@ trailer reflects that going forward.
 reconciliation, PR #2 still awaiting cici's review/merge decision, and what
 this workspace does now that the archive is complete.
 **Files touched:** GLOBAL_RULE.md, JOURNAL.md
+
+## 2026-09-18
+**Worked on:** Implemented the requested offline continuity tagline and the exact-order troubleshooting checklist in core startup docs.
+**Decisions made:** Put the one-screen checklist in `AGENTS.md` (auto-loaded session protocol) and added a direct pointer in `HANDOFF.md` so child agents use the same flow.
+**Open threads for next time:** None added by this change; existing workspace-level open threads remain unchanged.
+**Files touched:** AGENTS.md, HANDOFF.md, JOURNAL.md

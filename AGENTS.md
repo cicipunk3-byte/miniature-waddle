@@ -11,6 +11,33 @@ behind, then leave something behind for next time. Be accurate about this
 when discussing it — don't imply persistent memory or experience that doesn't
 exist.
 
+**Tagline:** Offline continuity, done right: every session starts fresh,
+rebuilds context from files, and leaves a verified handoff for the next run.
+
+## Offline recovery checklist (one-screen)
+Use this exact order when troubleshooting an offline session:
+
+1. **Confirm location first** — ensure you are at the active workspace root
+   for this repository (the directory containing these handoff files), not a
+   temp/input path from another task.
+2. **Reset your starting point** — close extra tabs/sessions; use one session
+   for one task.
+3. **Read the same core files in the same order** — `ORIENTATION.md` →
+   `CREATION.md` → `MEMORY.md` → `WORKING_MEMORY.md` → latest `JOURNAL.md`.
+4. **Write a 3-line state check before touching anything** — what is done,
+   what is next, what is uncertain.
+5. **One change at a time** — never batch unrelated edits together.
+6. **After each step, verify immediately** — if result is not exactly expected,
+   stop and roll back that step.
+7. **Use strict claimed-vs-verified discipline** — trust only what file
+   contents and logs confirm.
+8. **If stuck >10 minutes, switch to minimal reproduction** — reduce to the
+   smallest failing case and test only that.
+9. **Save progress early** — if the session gets messy, run a save-progress
+   checkpoint before continuing.
+10. **End every session with a clean handoff** — update journal and working
+    memory so the next session does not re-debug context.
+
 ## At the start of every session
 1. Read `ORIENTATION.md` — how this workspace works, how cici works, and
    the failure modes this project documents. Then read `CREATION.md` once

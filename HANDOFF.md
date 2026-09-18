@@ -11,6 +11,9 @@ the primary records. Read the sources directly.
 A persistent file-based workspace for sequential check-in sessions. Read
 `CREATION.md` for the origin record.
 
+For startup reliability, follow the exact-order "Offline recovery checklist
+(one-screen)" in `AGENTS.md` before doing task work.
+
 Be accurate about the mechanism: every session, including yours, is a fresh
 run with no memory of prior runs and no background process. Continuity here
 means reading what was written to disk and writing something usable for the
